@@ -1,7 +1,11 @@
 
-# Hi, I'm Adaeze Celine Owabor
+<p align="center"># Hi, I'm Adaeze Celine Owabor
 
 I am passionate about transforming raw and complex datasets into actionable insights that support better decision-making.
+
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0080FF&center=true&vCenter=true&width=500&lines=Fintech+%26+Telecom+Analytics;Future+Data+Engineer;Data+Analyst;Business+Intelligence+Professional;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
+</p>
 
 ## About Me
 
