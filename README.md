@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>Adaeze Celine Owabor</b></h1>
-  <p><b>Data Analyst & BI Specialist | Aspiring Data Engineer</b></p>
+  <p><b>Data Analyst | Business Intelligence Analyst</b></p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Translating+Raw+Data+Into+Actionable+Intelligence;SQL+%7C+Python+%7C+Power+BI+%7C+Data+Pipelines;Fintech+%26+High-Volume+Transaction+Analytics;Building+Scalable+Data+Solutions" alt="Typing SVG" />
 </div>
 
